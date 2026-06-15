@@ -10,4 +10,6 @@
 
 > Checking confiquration files for different servers <img width="1253" height="364" alt="image" src="https://github.com/user-attachments/assets/1e43edd8-8c87-4327-8cb4-50c102c887c9" />
 
+### Edit: Adding discord.js support soon
+
 but thats all Thanks you for reading 🥰
