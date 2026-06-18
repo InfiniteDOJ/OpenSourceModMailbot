@@ -9,7 +9,6 @@
 > Message the bot for help(THIS IS VERY CHANGABLE) <img width="1173" height="260" alt="image" src="https://github.com/user-attachments/assets/a8ee7dd9-dc3f-4c6b-8579-2576d36ecd33" />
 
 > Checking confiquration files for different servers <img width="1253" height="364" alt="image" src="https://github.com/user-attachments/assets/1e43edd8-8c87-4327-8cb4-50c102c887c9" />
-
-### Edit: Adding discord.js support soon
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 but thats all Thanks you for reading 🥰
